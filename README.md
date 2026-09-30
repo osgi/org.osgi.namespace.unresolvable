@@ -1,5 +1,9 @@
 # org.osgi.namespace.unresolvable
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/osgi/org.osgi.namespace.unresolvable/badge)](https://securityscorecards.dev/viewer/?uri=github.com/osgi/org.osgi.namespace.unresolvable)
+[![build](https://github.com/osgi/org.osgi.namespace.unresolvable/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/osgi/org.osgi.namespace.unresolvable/actions/workflows/build.yml)
+[![Maven Central](https://img.shields.io/maven-central/v/org.osgi/org.osgi.namespace.unresolvable)](https://central.sonatype.com/artifact/org.osgi/org.osgi.namespace.unresolvable)
+
 OSGi Specification repo for org.osgi.namespace.unresolvable
 
 Part of the [OSGi Specification Project](https://projects.eclipse.org/projects/technology.osgi).
